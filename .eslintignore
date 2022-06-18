@@ -1,0 +1,10 @@
+node_modules
+artifacts
+bin
+cache
+coverage
+docgen
+typechain
+network.json
+package-lock.json
+coverage.json
